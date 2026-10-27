@@ -30,10 +30,11 @@
 
 ## Snapshot
 
-- **25+ years** in China’s public security sector (Shanxi Provincial Public Security Department, 1997–present).
-- **Education:** Bachelor of Law (People’s Public Security University of China); Master of Transnational Crime Prevention (University of Wollongong, Australia); diploma/foundational police studies (Taiyuan Police School).
-- **Current concurrent roles:** Senior police / international cooperation specialist; practical instructor (实战教官) and lecturer at Shanxi Police College (山西警察学院), Investigation Department (侦查系); title recorded as 三级高警.
-- **Books in progress:** English monograph *From Principle to Procedure* (Cambridge University Press track); Chinese comparative monograph on US–China police excessive-force death cases (法律出版社).
-- **Languages:** Mandarin (native); English (advanced professional); Japanese (working / basic–intermediate); some French.
+- **25+ years** Shanxi Provincial Public Security Department (1997–present): International Cooperation / INTERPOL liaison **2004–2019**; Counterterrorism Division, deputy-division-level **2019–present**.
+- **Teaching:** International law lecturer / practical instructor (实战教官), Shanxi Police College; teaching recorded 2022–2024 (+ concurrent 2025–2026 records); bilingual training for international participants (incl. Morocco, Vietnam).
+- **Education:** Bachelor’s-level police administration / law (People’s Public Security University of China); Master of Transnational Crime Prevention / LL.M.-level study (University of Wollongong).
+- **INTERPOL training:** I-24/7 capacity-building, application, trainer certification; Business English Trainer Qualification (2013–2018).
+- **Books in progress:** *From Principle to Procedure* (CUP track); Chinese comparative police-force monograph (法律出版社).
+- **Languages:** Mandarin (native); English (advanced professional); Japanese (working); some French.
 
 *Last updated: 2026-10-28 (Asia/Shanghai).*

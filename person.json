@@ -15,8 +15,9 @@
     "https://wgxpolice.com/"
   ],
   "jobTitle": [
-    "Senior Police Officer / International Police Cooperation Specialist",
-    "Practical Instructor (实战教官), Shanxi Police College"
+    "Counterterrorism Division — Deputy-Division-Level Officer, Shanxi Provincial Public Security Department",
+    "International Law Lecturer / Practical Instructor (实战教官), Shanxi Police College",
+    "Former International Cooperation / INTERPOL Liaison Specialist (2004–2019)"
   ],
   "worksFor": [
     {
@@ -70,12 +71,12 @@
     {
       "@type": "CollegeOrUniversity",
       "name": "University of Wollongong",
-      "award": "Master of Transnational Crime Prevention"
+      "award": "Master of Transnational Crime Prevention (LL.M.-level postgraduate)"
     },
     {
       "@type": "CollegeOrUniversity",
       "name": "People's Public Security University of China",
-      "award": "Bachelor of Law, Public Security Management"
+      "award": "Bachelor's-level qualification in police administration / law"
     },
     {
       "@type": "EducationalOrganization",
@@ -83,16 +84,20 @@
     }
   ],
   "knowsAbout": [
+    "international police cooperation",
+    "INTERPOL liaison",
+    "international criminal justice",
     "police use of force",
     "police accountability",
     "comparative criminal justice",
     "US-China legal comparison",
     "transnational crime prevention",
-    "international police cooperation",
+    "counterterrorism",
+    "extradition and cross-border evidence",
     "security sector training",
     "rule of law"
   ],
-  "description": "Chinese law and international-cooperation specialist; senior police officer and practical instructor; author of comparative work on police excessive force and accountability.",
+  "description": "Chinese senior public-security professional and international-law researcher; INTERPOL liaison experience (2004–2019); counterterrorism deputy-division-level officer (2019–present); practical instructor and international-law lecturer at Shanxi Police College; author of comparative work on police excessive force and accountability.",
   "identifier": {
     "github": "wgxpolice19705912-sketch",
     "cv_repo": "https://github.com/wgxpolice19705912-sketch/cv"
@@ -110,8 +115,13 @@
     },
     {
       "@type": "PropertyValue",
+      "name": "interpol_training",
+      "value": "I-24/7 capacity-building, application, trainer certification; Business English Trainer Qualification (2013–2018)"
+    },
+    {
+      "@type": "PropertyValue",
       "name": "cv_status",
-      "value": "public canonical v1 2026-10-28"
+      "value": "public canonical v1.1 2026-10-28"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Curriculum Vitae — Wu Guoxin (吴国新)
 
-**Law · International Cooperation · Comparative Criminal Justice · Digital Content & Training Support**
+**International Law · International Criminal Justice Cooperation · Comparative Legal Research · Law-Enforcement Capacity-Building**
 
 Taiyuan, Shanxi, China · Tokyo area, Japan  
 Email: wgxpolice19705912@gmail.com · wgxpolice@163.com  
@@ -10,41 +10,70 @@ Available for international assignment and relocation
 
 ## Professional profile
 
-Law, international-cooperation and professional-education specialist with more than 25 years of progressively responsible public-sector experience. Holds a Bachelor of Law and postgraduate study in transnational crime prevention; advanced professional English; bilingual drafting; digital information management; content development; training delivery; and stakeholder coordination. Experienced in preparing and editing briefs, reports, presentations, correspondence, learning materials and public-facing professional content; organizing sensitive information accurately; working with diverse counterparts; and learning new legal and policy fields quickly.
+Senior public-security professional and international-law researcher with more than 25 years of experience in the **Shanxi Provincial Public Security Department**, China. Experience covers international police cooperation, INTERPOL liaison, cross-border criminal investigations, counterterrorism, criminal-justice cooperation, legal research and documentation, and international information exchange.
 
-Research and writing focus: **police use of force and accountability**, **US–China comparative criminal justice**, **institutional reform and training**, and **transnational crime / international police cooperation**.
+Experienced in liaising with foreign law-enforcement counterparts; processing and verifying international criminal information; supporting fugitive-tracing and extradition-related cooperation; preparing legal and operational documentation; and researching international and comparative law. Additional experience in legal education, bilingual instruction, police training and curriculum development.
+
+Combines practical law-enforcement experience with academic research and teaching. Research focus includes **police use of force and accountability**, **US–China comparative criminal justice**, **transnational organised crime**, and **international police cooperation**.
+
+---
+
+## Core competencies
+
+- International police and law-enforcement cooperation; INTERPOL liaison and information exchange  
+- International criminal justice cooperation; cross-border investigations and fugitive tracing  
+- Extradition-related cooperation and evidence exchange  
+- Counterterrorism and transnational organised crime  
+- International law and comparative legal research; legal analysis and documentation  
+- Criminal information verification and analytical reporting  
+- Police training, capacity-building, international-law teaching and curriculum development  
+- Bilingual and cross-cultural professional communication  
 
 ---
 
 ## Professional experience
 
-### Senior Police Officer / International Police Cooperation Specialist
-**Shanxi Provincial Public Security Department, China** · 1997–Present
+### International Cooperation / INTERPOL Liaison
+**Shanxi Provincial Public Security Department, China** · 2004–2019
 
-- Coordinate information exchange and cross-border cooperation involving government units, overseas counterparts and international law-enforcement channels; maintain accurate records and timely follow-up.
-- Draft, edit and quality-check bilingual briefs, official correspondence, operational plans, reports, risk assessments and decision materials for complex and sensitive matters.
-- Prepare meetings and professional engagements; coordinate stakeholders; record action points; support clear communication across institutional and cultural boundaries.
-- Contribute to cooperation programmes and policy implementation, translating strategic requirements into practical workplans, guidance, training activity and monitored follow-up.
-- Organize and review complex case information under time pressure while maintaining confidentiality, procedural discipline and accuracy.
-- Recognized in 2019 for contributions to international law-enforcement cooperation and case-related work.
+- Supported international law-enforcement cooperation on cross-border criminal investigations and criminal information exchange.
+- Liaised with foreign law-enforcement counterparts on operational coordination, information verification and international cooperation requests.
+- Contributed to fugitive tracing and extradition-related cooperation, including preparation and handling of legal documentation and evidence.
+- Processed and analysed international criminal information relating to drug crime and illegal trade in flora and fauna (including CITES-related matters).
+- Prepared official correspondence, legal analyses, cooperation documentation and reports.
+- Applied confidentiality requirements governing international law-enforcement information exchange.
+- Participated in cooperation and professional exchanges involving **Australia, Singapore, Tajikistan and Vietnam**.
+- Recognized in **2019** for contributions to international law-enforcement cooperation and case-related work.
 
-*Role detail (also used in earlier tailored resumes): International Cooperation Division, Section Chief (约 2004–2019); earlier research / command-center coordination roles (1997–2004). Exact month-level dates: to confirm for UN Inspira PHP.*
+*Earlier posts within the same department (1997–2004) included research and command-center coordination roles; month-level dates for Inspira PHP: to confirm against employment record.*
 
-### Lecturer, Trainer and Curriculum Designer (concurrent)
-**Shanxi Police College (山西警察学院), Investigation Department (侦查系), China** · Recent years
+### Counterterrorism Division — Deputy-Division-Level Officer
+**Shanxi Provincial Public Security Department, China** · 2019–Present
 
-- Practical instructor (实战教官); college personnel table lists title **三级高警**.
-- Design and deliver bilingual and English-medium programmes; develop structured learning materials, facilitator notes, presentations, scenarios, assessment tools and digital resources for adult learners.
-- Courses include **国内安全保卫学** (*Domestic Security Protection*); syllabus author for 2026 revision; concurrent teaching recorded for 2025–2026 academic year.
-- Produce and organize professional content for cohorts of approximately 50–200 learners.
-- Mentor applied research and written projects on rule of law, institutional accountability, international cooperation, non-traditional security and responsible technology use.
+- Counterterrorism and international security cooperation.
+- Analysis of transnational criminal threats and their legal and operational implications.
+- Application of legal and policy frameworks to law-enforcement work.
+- Interdisciplinary research connecting international law, criminal justice and practical law-enforcement experience.
+
+*Exact official English title, administrative rank wording, detailed duty list and month-level dates: confirm against original employment record.*
+
+### International Law Lecturer / Legal Education and Training (concurrent)
+**Shanxi Police College (山西警察学院), China** · teaching recorded 2022–2024; further appointment details to confirm
+
+- Practical instructor (实战教官); college personnel table lists title **三级高警**; Investigation Department (侦查系).
+- Teaching international law and subjects related to international law enforcement.
+- Developing teaching materials for law students and law-enforcement trainees.
+- Bilingual instruction and professional training for international participants, including participants from **Morocco and Vietnam**.
+- Curriculum and seminar design on international cooperation, counterterrorism, transnational crime and comparative legal issues.
+- Courses include **国内安全保卫学** (*Domestic Security Protection*); syllabus authorship for 2026 revision; concurrent teaching also recorded for 2025–2026 academic year.
+
+*Relationship to the public-security department post (concurrent / seconded / part-time): confirm for applications.*
 
 ### Researcher, Author and Security-Training Consultant
 **Independent research and professional training portfolio** · 2025–Present
 
-- Prepare research frameworks, concept notes, policy roadmaps, workplans, training packages and written recommendations for institutional reform and capacity development.
-- Develop comparative legal and governance monographs using interviews, document analysis and institutional research.
-- Research unfamiliar legal and policy questions rapidly and explain them to academic, professional and decision-making audiences.
+- Research frameworks, concept notes, policy roadmaps, workplans, training packages and written recommendations for institutional reform and capacity development.
+- Comparative legal and governance monographs using interviews, document analysis and institutional research.
 
 ---
 
@@ -54,7 +83,9 @@ Research and writing focus: **police use of force and accountability**, **US–C
 - **Singapore (2017–2018):** overseas evidence collection, international case cooperation and cross-border coordination.
 - **Vietnam and regional cooperation:** case-related liaison and international police-cooperation activities.
 - **Australia:** postgraduate study and professional development in transnational crime prevention and comparative criminal justice.
-- INTERPOL-related programmes and international policing activities; qualified through the **UN Police peacekeeping examination/assessment** process.
+- INTERPOL-related programmes; recorded participation in / inclusion for a **UN Civilian Police talent pool** (precise designation, admission date and current status: confirm). Qualified through the **UN Police peacekeeping examination/assessment** process.
+
+*These items record professional exposure and credentials; they do not imply employment as UN or INTERPOL staff.*
 
 ---
 
@@ -62,29 +93,51 @@ Research and writing focus: **police use of force and accountability**, **US–C
 
 | Degree | Institution | Notes |
 |---|---|---|
-| Master of Transnational Crime Prevention | University of Wollongong, Australia | Postgraduate; year often listed as 2010 (confirm for applications) |
-| Bachelor of Law, Public Security Management | People’s Public Security University of China (中国人民公安大学), Beijing | Completed 2002 (confirm exact conferral date) |
+| Master of Transnational Crime Prevention (LL.M.-level postgraduate study) | University of Wollongong, Australia | Exact diploma title and conferral year: confirm against certificate (often listed ~2010) |
+| Bachelor’s-level qualification in police administration / law (Public Security Management) | People’s Public Security University of China (中国人民公安大学), Beijing | Exact degree title and year: confirm (often listed 2002) |
 | Diploma / foundational professional education in police studies | Taiyuan Police School, Shanxi | Foundational police education |
 
 ---
 
-## Books and major writing (in progress)
+## INTERPOL-related training and qualifications
 
-| Work | Status | Audience / publisher track |
-|---|---|---|
-| *From Principle to Procedure* (English) | Manuscript rewrite under CUP / Cambridge Studies in Law and Society guidance | International academic |
-| Chinese comparative monograph on US–China police excessive-force death cases (working titles under author decision) | Full trial draft v0.1.1 (~51k Chinese characters) | 法律出版社 (Law Press China) |
+| Year | Credential |
+|---|---|
+| 2013 | Training concerning counterfeiting and illicit goods (May 2013) |
+| 2016 | I-24/7 System Capacity-Building Training |
+| 2018 | I-24/7 System Application Training |
+| 2018 | I-24/7 System Trainer Certification Training |
+| 2018 | INTERPOL Business English Trainer Qualification Certificate (July 2018) |
 
-Shared thesis (author-confirmed, 2026-10-27): abstract legal principles and after-the-fact trials alone do not govern police excessive force; legality of force is **temporal** and must be turned into operable procedure, training, supervision and accountability — compared node by node across systems.
+*Reproduce exact certificate titles and issuing bodies from original documents for formal applications.*
+
+---
+
+## Research and academic interests
+
+International law and international criminal justice; comparative law and comparative policing; legal frameworks governing police use of force and accountability; counterterrorism law and international security; international law-enforcement cooperation; transnational organised crime (including drug crime and telecommunications fraud); cross-border evidence, extradition and criminal procedure; protection of overseas interests; AI and emerging transnational crime.
+
+### Selected research contributions (in progress / to verify)
+
+| Project | Status |
+|---|---|
+| China–United States comparative study of police use of force | Ongoing; English monograph *From Principle to Procedure* (Cambridge University Press track); Chinese comparative monograph (法律出版社) |
+| International Counterterrorism Law — work associated with Peking University | Exact publication / authorship details require verification before listing as a formal bibliographic entry |
+| Protection of China’s overseas interests | Research and professional contributions |
+| International organised crime and telecommunications fraud | Ongoing research and research-platform development (incl. IOCR Case Atlas at wgxpolice.com) |
+
+Shared thesis (author-confirmed, 2026-10-27): abstract legal principles and after-the-fact trials alone do not govern police excessive force; legality of force is **temporal** and must be turned into operable procedure, training, supervision and accountability.
 
 ---
 
 ## Languages
 
 - **Chinese (Mandarin):** Native  
-- **English:** Advanced professional working proficiency (research, drafting, training, liaison, presentation)  
-- **Japanese:** Working knowledge (reading / communication; self-rating for UN language framework: to confirm)  
-- **French:** Some (self-rating: to confirm)
+- **English:** Advanced professional working proficiency (international cooperation, legal research, teaching, drafting, presentation)  
+- **Japanese:** Working knowledge  
+- **French:** Some  
+
+*UN language framework self-ratings / test scores: to confirm.*
 
 ---
 
@@ -96,15 +149,15 @@ Microsoft Word, Excel, Outlook, PowerPoint; online collaboration; digital inform
 
 ## Selected websites / public projects
 
-- [IOCR Case Atlas](https://wgxpolice.com/) — transnational crime / case atlas site  
-- Speakstead — public-speaking training site under wgxpolice.com (demo / launch in progress)
+- [IOCR Case Atlas](https://wgxpolice.com/) — transnational crime / case atlas  
+- Speakstead — public-speaking training under wgxpolice.com (demo / launch in progress)
 
 ---
 
 ## References
 
-References and a detailed employment history suitable for WIPO/Taleo or UN Inspira PHP are available upon request.
+Available upon request, subject to the requirements of the relevant vacancy. Detailed employment history suitable for WIPO/Taleo or UN Inspira PHP available privately.
 
 ---
 
-*Source: author-supplied Word CV (2026-10-28), cross-checked with teaching records and prior application materials. See [NOTES.md](NOTES.md).*
+*Sources: author Word CV (2026-10-28); expanded English draft (same day); teaching records; prior application materials. See [NOTES.md](NOTES.md).*

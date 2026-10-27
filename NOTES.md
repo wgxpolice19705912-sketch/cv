@@ -2,34 +2,31 @@
 
 ## Provenance (2026-10-28 Asia/Shanghai)
 
-Primary source: Word CV attached by 吴老师 in chat with Secretary  
-(`01M5ZS89S6K3ZFMXX4Q1EZ5NW7.docx` → `Wu_Guoxin_CV.docx`).
-
-Cross-checked with:
-
-- Teaching dossier (山西警察学院 实战教官 records; 国内安全保卫学 syllabus authorship)
-- Author preface in Chinese monograph draft (`cn_manuscript_original.txt`) — ~30 years in policing; Shanxi Public Security; Wollongong master’s
-- Prior tailored resume emailed 2026-07-18 (Fred Hollows inquiry) for education wording and earlier role titles
-- Standing professional facts already used across the author’s bots (languages; CUP / 法律出版社 book tracks; wgxpolice.com)
+1. **Word CV** attached by 吴老师 → `Wu_Guoxin_CV.docx` (ABC Fellowship / WIPO Ref. 26213-FEL tailored profile).
+2. **Expanded English draft** attached same morning → `Guoxin_Wu_CV_expanded_draft.txt` (clearer 2004–2019 INTERPOL liaison / 2019–present CT deputy-division timeline; INTERPOL training list; research interests).
+3. Cross-checked with teaching dossier (山西警察学院 实战教官; 国内安全保卫学); Chinese monograph preface; prior Fred Hollows tailored resume (2026-07-18).
 
 ## Contact email note
 
-The attached Word CV listed `wgxpolice19705012@gmail.com`. The author’s connected Gmail account and prior applications use **`wgxpolice19705912@gmail.com`**. This repo uses the verified addresses:
+Word CV listed `wgxpolice19705012@gmail.com`. Connected Gmail and prior applications use **`wgxpolice19705912@gmail.com`**. This repo uses verified addresses only:
 
 - wgxpolice19705912@gmail.com  
 - wgxpolice@163.com  
 
-Please confirm if `19705012` was intentional; otherwise treat it as a typo.
+Confirm if `19705012` was intentional.
 
-## Still to confirm (do not invent)
+## Merged carefully / still to confirm
 
-- Exact month/year for each post (needed for UN Inspira PHP)
-- Degree conferral dates on certificates
-- Full publication list
-- UN language self-ratings (four skills)
-- Whether current employer may be contacted
-- Tokyo / Japan residence status for applications
-- Phone number intentionally omitted from the public repo (available privately)
+- Exact diploma title: “Master of Transnational Crime Prevention” vs “LL.M.” — listed as both pending certificate check  
+- Degree and post **month** dates for UN Inspira PHP  
+- Exact English title / administrative rank for 2019–present CT post  
+- Teaching appointment relationship to PSD (concurrent / seconded / part-time)  
+- UN Civilian Police talent-pool designation, date, status  
+- Peking University *International Counterterrorism Law* bibliographic details  
+- Full publication list  
+- UN language self-ratings  
+- Employer contact permission  
+- Phone intentionally **omitted** from the public repo  
 
 ## Intended use
 
