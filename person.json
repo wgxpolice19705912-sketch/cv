@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Wu Guoxin",
+  "alternateName": [
+    "吴国新"
+  ],
+  "email": [
+    "wgxpolice19705912@gmail.com",
+    "wgxpolice@163.com"
+  ],
+  "url": "https://github.com/wgxpolice19705912-sketch/cv",
+  "sameAs": [
+    "https://github.com/wgxpolice19705912-sketch",
+    "https://wgxpolice.com/"
+  ],
+  "jobTitle": [
+    "Senior Police Officer / International Police Cooperation Specialist",
+    "Practical Instructor (实战教官), Shanxi Police College"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Shanxi Provincial Public Security Department",
+      "address": "Shanxi, China"
+    },
+    {
+      "@type": "Organization",
+      "name": "Shanxi Police College (山西警察学院)",
+      "department": "Investigation Department (侦查系)"
+    }
+  ],
+  "homeLocation": [
+    {
+      "@type": "Place",
+      "name": "Taiyuan, Shanxi, China"
+    },
+    {
+      "@type": "Place",
+      "name": "Tokyo area, Japan"
+    }
+  ],
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "Chinese",
+      "alternateName": "zh",
+      "proficiencyLevel": "native"
+    },
+    {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en",
+      "proficiencyLevel": "advanced professional"
+    },
+    {
+      "@type": "Language",
+      "name": "Japanese",
+      "alternateName": "ja",
+      "proficiencyLevel": "working"
+    },
+    {
+      "@type": "Language",
+      "name": "French",
+      "alternateName": "fr",
+      "proficiencyLevel": "some"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Wollongong",
+      "award": "Master of Transnational Crime Prevention"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "People's Public Security University of China",
+      "award": "Bachelor of Law, Public Security Management"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "Taiyuan Police School"
+    }
+  ],
+  "knowsAbout": [
+    "police use of force",
+    "police accountability",
+    "comparative criminal justice",
+    "US-China legal comparison",
+    "transnational crime prevention",
+    "international police cooperation",
+    "security sector training",
+    "rule of law"
+  ],
+  "description": "Chinese law and international-cooperation specialist; senior police officer and practical instructor; author of comparative work on police excessive force and accountability.",
+  "identifier": {
+    "github": "wgxpolice19705912-sketch",
+    "cv_repo": "https://github.com/wgxpolice19705912-sketch/cv"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "police_rank_title",
+      "value": "三级高警"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "years_public_security",
+      "value": "1997–present (25+ years)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "cv_status",
+      "value": "public canonical v1 2026-10-28"
+    }
+  ]
+}
